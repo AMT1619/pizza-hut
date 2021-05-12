@@ -1,0 +1,12 @@
+{
+    "[b": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAwAAAAAAACcDAAAAAAAAJwMAAAAAAAAnAwAAAAAAACcDAAAAAAAAJwMAAAAAAAAnAwAAAAAAACcDAAAAAAAAJwMAAAAAAAAnAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PIZZA"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
